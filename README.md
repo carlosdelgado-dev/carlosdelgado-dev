@@ -1,50 +1,51 @@
 # Carlos Delgado
 ### Senior Mobile Developer · Full-Stack Engineer · AI Engineer
 
-Building scalable mobile applications, robust software architectures, and AI-powered digital products.
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-delgado-57641a151/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://carlosdelgado.dev">
+    <img src="https://img.shields.io/badge/Portfolio-carlosdelgado.dev-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
-I specialize in **mobile engineering, full-stack development, and software architecture**, with a focus on performance, security, maintainability, and production-ready solutions.
+Software engineer focused on **mobile engineering, scalable architectures, and full-stack development**, building secure, high-performance applications for iOS and Android. Experienced in delivering production-ready products, integrating backend services, and developing digital solutions across fintech and AI-powered applications.
 
-Currently building fintech and digital asset solutions at **Encora**.
+I value clean code, sound engineering decisions, maintainability, and exceptional user experiences.
 
 ### Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,swift,kotlin,android" alt="Mobile Development" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,python,fastapi" alt="Languages and Backend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,firebase,git,github" alt="Databases and Tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,flutter,swift,kotlin,android" height="45" alt="Mobile and Frontend Technologies"/>
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,postgres,mongodb,docker,git" height="45" alt="Backend, Databases and Engineering Tools"/>
 </p>
 
-### Engineering Focus
+### Core Expertise
 
-- **Mobile:** iOS, Android, React Native, Flutter
-- **Architecture:** Clean Architecture, modular design, scalable systems
-- **Backend:** REST APIs, Node.js, NestJS, Python
-- **Security:** JWT, refresh tokens, secure storage
-- **AI Engineering:** AI-powered applications and intelligent integrations
+- **Mobile Engineering:** React Native, Flutter, native iOS and Android
+- **Architecture:** Clean Architecture, modular design, maintainable systems
+- **Backend Engineering:** Node.js, NestJS, Python, REST APIs
+- **Security & Integration:** JWT, refresh tokens, secure storage, API integration
+- **AI Engineering:** AI-powered applications and intelligent product experiences
 
-### GitHub Overview
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
-</p>
-
-### Connect
+### Apps & Projects
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/carlos-delgado-57641a151/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://play.google.com/store">
+    <img src="https://img.shields.io/badge/Google_Play-Explore_Apps-414141?style=for-the-badge&logo=googleplay&logoColor=34A853" alt="Google Play"/>
   </a>
-  <a href="https://carlosdelgado.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://www.apple.com/app-store/">
+    <img src="https://img.shields.io/badge/App_Store-iOS_Apps-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"/>
   </a>
 </p>
 
----
+### Let's Connect
 
-<p align="center">
-  <i>Engineering reliable software. Building products that scale.</i>
+[LinkedIn](https://www.linkedin.com/in/carlos-delgado-57641a151/) · [Portfolio](https://carlosdelgado.dev)
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=539BF5&width=500&lines=Building+reliable+mobile+experiences;Engineering+scalable+software+systems;Exploring+AI-powered+products" alt="Engineering focus animation"/>
 </p>
